@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63362086627",
+    "firebase_url": "https://multipick-b0567.firebaseio.com",
+    "project_id": "multipick-b0567",
+    "storage_bucket": "multipick-b0567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63362086627:android:d04f0a40576a203e",
+        "android_client_info": {
+          "package_name": "io.github.yashladha.multipick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63362086627-1qf6rfd0f0bnej15hr224tmqc8u921bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.yashladha.multipick",
+            "certificate_hash": "45c1f7d84250a3f58a35b0b5e703abebb30700ea"
+          }
+        },
+        {
+          "client_id": "63362086627-b7svpov1u7c71cph4apdudtqpnabqott.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6IjbPgB4MoPhVGgUjy3iwrr50TrJzCbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63362086627-b7svpov1u7c71cph4apdudtqpnabqott.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
